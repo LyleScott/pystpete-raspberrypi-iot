@@ -1,5 +1,7 @@
 # PyStPete Raspberry Pi IoT
 
+[Presenation slides](https://ls3.io)
+
 ## Examples
 
 * Coming soon...
